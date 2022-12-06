@@ -1,0 +1,6 @@
+Proyecto de Machine Learning sobre el calculo del precio de vehiculos de segunda mano segun sus caracteristicas.
+
+Trabajo realizado por: Juan Ignacio Montalbán Sardi 
+
+Enlace a GitHub: https://github.com/desardi131/ML_Precio_Coches
+ 
